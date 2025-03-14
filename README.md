@@ -2,7 +2,7 @@
 
 A Perfect Sensitivity Analyzer (PSA) calculator designed to help gamers find their ideal mouse sensitivity through systematic testing and binary search methodology.
 
-![PSA Calculator Screenshot](screenshot.png)
+![PSA Calculator Screenshot]([screenshot.png](https://ibb.co/FqbjQX33))
 
 ## Description
 
